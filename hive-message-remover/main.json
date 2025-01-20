@@ -1,0 +1,6 @@
+{
+    "name": "Hive Message Remover",
+    "description": "Script to remove some chat messages Hive sends in chat (such as their social media)",
+    "main_class": "main.lua",
+    "api_revision": 2
+}
