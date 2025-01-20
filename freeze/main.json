@@ -1,0 +1,6 @@
+{
+    "name": "Freeze",
+    "description": "Adds the .freeze command which freezes your game for a period of time, depending on how long you specify in the command",
+    "main_class": "main.lua",
+    "api_revision": 2
+}
