@@ -1,3 +1,11 @@
+function onEnable()
+    Notify("Enabled")
+end
+
+function onDisable()
+    Notify("Disabled")
+end
+
 onEvent(EventType.onPacketReceiveEvent, function(packet, id)
     if id == MinecraftPacketIds.Text then
         if TextPacket.getPacket(packet).message == "§6[§e!§6] §r§9Need help? §3Go to §asupport.playhive.com" then
