@@ -1,0 +1,6 @@
+{
+    "name": "Chat Logger",
+    "description": "Logs chat to a file (in the chatlogs directory off of Flarial's directory)",
+    "main_class": "main.lua",
+    "api_revision": 2
+}
