@@ -11,4 +11,5 @@ Adds a command to freeze your game, so if you are midair as it is run you will b
 
 ## Hive Message Remover
 Turns out Flarial now has this integrated into the client itself (or at least it is being worked on), so not really useful :/
+
 Hides messages on Hive like ones advertising their Twitter account, as they aren't really needed. I got the idea from the Hive Chat Replacer Onix Client script, which you can find [here](https://github.com/OnixClient-Scripts/OnixClient_Scripts/blob/master/Modules/HiveChatReplacer.lua).
