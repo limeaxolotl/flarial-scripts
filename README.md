@@ -10,4 +10,5 @@ Automatically logs chats, saving them in ``%localappdata%\Packages\Microsoft.Min
 Adds a command to freeze your game, so if you are midair as it is run you will be frozen midair. Run ``.freeze <duration>`` to freeze your game, replacing ``<duration>`` with however many seconds you want to freeze your game for.
 
 ## Hive Message Remover
+Turns out Flarial now has this integrated into the client itself (or at least it is being worked on), so not really useful :/
 Hides messages on Hive like ones advertising their Twitter account, as they aren't really needed. I got the idea from the Hive Chat Replacer Onix Client script, which you can find [here](https://github.com/OnixClient-Scripts/OnixClient_Scripts/blob/master/Modules/HiveChatReplacer.lua).
